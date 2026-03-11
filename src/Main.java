@@ -5,4 +5,12 @@ public class Main {
     public static int calc(int a, int b, int c) {
         return a + b + c;
     }
+
+    public static double calculateAvrage(int[] values){
+        double a = 0;
+        for (int value : values) {
+            a += value;
+        }
+        return a / values.length;
+    }
 }
