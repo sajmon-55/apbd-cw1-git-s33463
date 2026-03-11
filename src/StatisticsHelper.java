@@ -9,6 +9,6 @@ public class StatisticsHelper {
     }
 
     public void calculateMin(int[] values) {
-
+        int min = values[0];
     }
 }
