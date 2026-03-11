@@ -7,4 +7,8 @@ public class StatisticsHelper {
     public void calculateMax(int[] values) {
 
     }
+
+    public void calculateMin(int[] values) {
+
+    }
 }
