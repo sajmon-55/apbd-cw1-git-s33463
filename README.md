@@ -1,1 +1,1 @@
-Zmiana Komunikatu
+Zmiana Komunikat
