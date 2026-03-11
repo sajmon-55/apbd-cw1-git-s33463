@@ -3,4 +3,8 @@ public class StatisticsHelper {
     public StatisticsHelper(String name) {
         this.name = name;
     }
+
+    public void calculateMax(int[] values) {
+
+    }
 }
